@@ -1,280 +1,172 @@
-HAX-ROOT
 
-<div align="center">
-  <img src="https://github.com/prince4you/Hax-root/blob/main/Screenshot_20260217-120456_Termux.png?raw=true" width="100%">
-</div>
+  <h1 align="center">⚡ HAX-ROOT ⚡</h1>
+  <p align="center"><strong>Professional Fake Root Environment for Termux</strong><br>
+  <em>Root Without Root - Run Linux on Android Without Rooting!</em></p>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/VERSION-3.0.0-red?style=for-the-badge">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PYTHON-3.9-blue?style=for-the-badge">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge">
+  </a>
+</p>
 
 <br>
-
-<div align="center">
-  <h1>🔥 HAX-ROOT 🔥</h1>
-  <h2>Fake Root Environment for Termux</h2>
-  <h3><i>"Root Without Root - Real Power, Fake Access"</i></h3>
-</div>
-
-<br>
-
-🎯 WHAT IS THIS?
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   HAX-ROOT is a POWERFUL Python script that installs       │
-│   UBUNTU & DEBIAN in Termux WITHOUT rooting your phone!    │
-│                                                             │
-│   Your Android → BECOMES → Linux Machine                   │
-│   No Root Required → Full Sudo Access                      │
-│   Safe → Secure → Professional                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ---
 
-⚡ WHY HAX-ROOT?
+📌 ABOUT TOOL
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🔴 CAN'T RUN LINUX ON PHONE?    → HAX-ROOT FIXES IT      │
-│   🔴 ROOTING IS RISKY?             → FAKE ROOT IS SAFE     │
-│   🔴 WANT TO LEARN LINUX?          → PERFECT ENVIRONMENT   │
-│   🔴 NEED HACKING TOOLS?           → KALI SUPPORT COMING   │
-│   🔴 WANT A SERVER?                 → DEBIAN SERVER READY  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+HAX-ROOT is a Python-based script that installs Ubuntu & Debian Linux in Termux without rooting your Android phone. This tool gives you full sudo access and provides a complete Linux environment in just one click.
+
+---
+
+📱 AVAILABLE ON
+
+✅ Termux | ✅ Android 8.0+ | ✅ No Root Required
+
+---
+
+✅ TESTED ON
+
+Samsung ✓ | Xiaomi ✓ | OnePlus ✓ | Realme ✓ | Pixel ✓
+
+---
+
+📋 REQUIREMENTS
+
+ 
+🌐 Internet 100 MB
+💾 Storage 1 GB
+🐍 Python 3.9+
+📦 Git Latest
 
 ---
 
 🔥 FEATURES
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🦄 UBUNTU        → User friendly, great for beginners    │
-│   🌀 DEBIAN        → Stable, perfect for servers           │
-│   💀 KALI          → Coming soon with hacking tools        │
-│                                                             │
-│   👑 ROOT ACCESS   → Full sudo with fake root              │
-│   👤 USER ACCOUNTS → Create normal users                   │
-│   🔑 PASSWORD      → Strength checker + optional           │
-│   🛡️ SUDO CONTROL  → With or without password              │
-│                                                             │
-│   🎨 HACKER UI     → Colors + animations + spinners        │
-│   💾 STATE SAVE    → Remembers your settings               │
-│   🔄 AUTO REPAIR   → Fixes broken installs                 │
-│   📊 HEALTH CHECK  → Verifies everything                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+✓ Ubuntu Installation (800 MB)
+✓ Debian Installation (600 MB)
+✓ Kali Linux (Coming Soon)
+✓ Full Sudo Access
+✓ Create Normal Users
+✓ Password Strength Checker
+✓ Professional Hacker UI
+✓ 16+ Animated Spinners
+✓ Auto-Detect Existing Installs
+✓ Self-Repair System
+✓ Error Recovery Options
+✓ Beginner Friendly
 ```
 
 ---
 
-📊 PROJECT STATS
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   📁 LANGUAGE      : PYTHON 3                               │
-│   📦 LINES OF CODE : 2,500+                                 │
-│   🎨 UI ELEMENTS   : 100+ EMOJI ICONS                      │
-│   ⏳ SPINNERS       : 16+ STYLES                            │
-│   📚 CLASSES       : 12+                                    │
-│   ⚙️ FUNCTIONS     : 60+                                    │
-│   🔧 ERROR HANDLERS: 20+                                    │
-│   📝 LOG LINES     : 500+                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-🚀 ONE LINE INSTALL
+📲 INSTALLATION [Termux]
 
 ```bash
-pkg update && pkg install git python -y && git clone https://github.com/prince4you/Hax-root && cd Hax-root && python Main.py
-```
-
-COPY → PASTE → ENTER → DONE!
-
----
-Alternative Installation
-
-```bash
-# Manual method
-pkg update
-pkg upgrade -y
+apt-get update -y
+apt-get upgrade -y
 pkg install python git -y
 git clone https://github.com/prince4you/Hax-root
 cd Hax-root
-chmod +x Main.py
 python Main.py
 ```
 
----
-
 ```
-📦 AVAILABLE DISTROS
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ┌─────┬──────────┬─────────┬──────────┬───────────────┐  │
-│   │  #  │  DISTRO  │  SIZE   │  STATUS  │   BEST FOR    │  │
-│   ├─────┼──────────┼─────────┼──────────┼───────────────┤  │
-│   │  1  │  🦄 UBUNTU │ 800 MB  │   ✅     │  BEGINNERS    │  │
-│   │  2  │  🌀 DEBIAN │ 600 MB  │   ✅     │  SERVERS      │  │
-│   │  3  │  💀 KALI  │ 2 GB    │   ⏳     │  HACKING      │  │
-│   └─────┴──────────┴─────────┴──────────┴───────────────┘  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+[+]──╼ Internet required
+[+]──╼ Select Ubuntu/Debian
+[+]──╼ Set root password (optional)
+[+]──╼ Create user (optional)
+[+]──╼ Type 'hax' to login after install
 ```
 
 ---
 
-⚙️ SETUP OPTIONS
+🎮 USAGE
+
+Command Description
+hax Login as root
+hax-user Login as user
+ll List files
+update Update packages
+ip Show IP
+sys System info
+
+---
+
+📸 SCREENSHOT
+
+<p align="center">
+  <img src="https://github.com/prince4you/Hax-root/blob/main/Screenshot_20260217-120456_Termux.png?raw=true" width="500">
+</p>
+
+---
+
+📊 STATS
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🔑 ROOT PASSWORD?      → (optional, empty = no pass)     │
-│                                                             │
-│   👤 CREATE NORMAL USER? → (y/n)                           │
-│      ├─ USERNAME?        → (default: hax)                  │
-│      ├─ USER PASSWORD?   → (optional)                      │
-│      └─ SUDO PASSWORD?   → (y/n)                           │
-│                                                             │
-│   🔐 PASSWORD STRENGTH:                                     │
-│      ⚫ WEAK   → Too simple                                 │
-│      🟡 FAIR   → Could be better                           │
-│      🔵 GOOD   → Strong enough                              │
-│      🟢 STRONG → Excellent!                                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+📁 Python 95% • Shell 5%
+📦 2,500+ Lines of Code
+🎨 100+ UI Icons
+⏱️ 16+ Animated Spinners
 ```
 
 ---
 
-🛡️ ERROR HANDLING
+🌐 CONNECT WITH ME
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ⚠️ ERROR DETECTED!                                         │
-│                                                             │
-│   ┌─────────────────────────────────────────────────────┐  │
-│   │  [1] 🔄 RETRY  →  Try again                         │  │
-│   │  [2] ⏭️ SKIP   →  Skip this step                    │  │
-│   │  [3] 🛑 ABORT  →  Exit safely                       │  │
-│   └─────────────────────────────────────────────────────┘  │
-│                                                             │
-│   NEVER GET STUCK! ALWAYS HAVE OPTIONS!                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-📱 REQUIREMENTS
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ┌─────────────────────────────────────────────────────┐  │
-│   │  📱 ANDROID    : 8.0+                               │  │
-│   │  📦 TERMUX     : LATEST (from F-Droid)              │  │
-│   │  💾 STORAGE    : 1GB+ FREE                          │  │
-│   │  🌐 INTERNET   : REQUIRED FOR INSTALL               │  │
-│   │  🔒 ROOT       : ❌ NOT NEEDED!                     │  │
-│   │  🧠 RAM        : 2GB+ (4GB recommended)             │  │
-│   └─────────────────────────────────────────────────────┘  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <a href="https://youtube.com/@noobcybertech2024">
+    <img src="https://img.shields.io/badge/YouTube-@noobcybertech2024-red?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="https://t.me/Annon4you">
+    <img src="https://img.shields.io/badge/Telegram-@Annon4you-blue?style=for-the-badge&logo=telegram">
+  </a>
+  <a href="https://www.facebook.com/share/1HrTAb9GoH/">
+    <img src="https://img.shields.io/badge/Facebook-NoobCyberTech-1877F2?style=for-the-badge&logo=facebook">
+  </a>
+  <a href="https://chat.whatsapp.com/DQHA1MZ46RYGlyIIOPZR2T">
+    <img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=for-the-badge&logo=whatsapp">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-@annon_4you-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://github.com/prince4you">
+    <img src="https://img.shields.io/badge/GitHub-@prince4you-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-📁 PROJECT STRUCTURE
+⚠️ WARNING
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   HAX-ROOT/                                                │
-│   ├── 📄 Main.py          → 2,500+ LINES OF CODE          │
-│   ├── 📄 README.md        → THIS FILE                     │
-│   ├── 📄 LICENSE          → MIT LICENSE                   │
-│   └── 📸 Screenshot.png   → PROJECT SCREENSHOT            │
-│                                                             │
-│   MAIN.PY CONTAINS:                                         │
-│   ├── 🎨 Colors Class                                      │
-│   ├── 🎯 Icons Class                                       │
-│   ├── 📊 Logger Class                                      │
-│   ├── 💾 State Manager                                     │
-│   ├── 🧮 Progress Bar                                      │
-│   ├── ⏱️ Spinner                                           │
-│   ├── ⌨️ Input Handler                                      │
-│   ├── ⚠️ Error Handler                                      │
-│   ├── 📋 Menu System                                       │
-│   ├── 🔧 System Ops                                        │
-│   ├── 📦 Distro Manager                                    │
-│   ├── ⚙️ Environment Setup                                 │
-│   ├── 🚀 Launcher Creator                                  │
-│   └── 📝 Summary Display                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <strong>This tool is only for educational purpose.</strong><br>
+  <em>If you use this tool for other purposes except education, we will not be responsible.</em>
+</p>
 
 ---
 
-🤝 CONTRIBUTE
+👨‍💻 DEVELOPER
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   WANT TO HELP? HERE'S HOW:                                 │
-│                                                             │
-│   1️⃣ FORK the repository                                   │
-│   2️⃣ CREATE a feature branch                               │
-│   3️⃣ MAKE your changes                                     │
-│   4️⃣ TEST everything                                       │
-│   5️⃣ COMMIT with clear message                            │
-│   6️⃣ PUSH to your fork                                     │
-│   7️⃣ OPEN a Pull Request                                   │
-│                                                             │
-│   ✅ Keep Python 3 compatible                               │
-│   ✅ Maintain hacker UI style                               │
-│   ✅ Add error handling                                     │
-│   ✅ Update documentation                                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <strong>SUNIL</strong><br>
+  Team: Noob Cyber Tech
+</p>
 
-👨‍💻 CREATOR
+<br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-3.0.0-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Release-Stable-green?style=flat-square">
+</p>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ⭐ STAR this repository                                   │
-│   🍴 FORK for your own version                             │
-│   📢 SHARE with friends                                    │
-│   🐛 REPORT issues                                         │
-│   💡 SUGGEST features                                       │
-│                                                             │
-│                                                             │
-│   ╔═══════════════════════════════════════════════════════╗ │
-│   ║                                                       ║ │
-│   ║   🔥 HAX-ROOT - ROOT WITHOUT ROOT 🔥                  ║ │
-│   ║                                                       ║ │
-│   ║   MADE WITH ❤️ FOR THE HACKING COMMUNITY              ║ │
-│   ║                                                       ║ │
-│   ╚═══════════════════════════════════════════════════════╝ │
-│                                                             │
-│                    ⬆️ BACK TO TOP                           │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-```
-
-</div>
+<p align="center">
+  <a href="#">⬆️ Back to Top</a>
+</p>
