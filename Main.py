@@ -249,12 +249,12 @@ X  \\...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                   @#%,.@          @#%,.@
                      @#%,.@      @#%,.@
                        @#%.,@  @#%,.@
-                        Noob Cyber Tech
+                           
 {Colors.RESET}"""
     
     CREDIT = f"""
-{Colors.RED}                      ▶ Coded by{Colors.GREEN} {AUTHOR}{Colors.RED}◀{Colors.RESET}
-{Colors.RED}                      ⫸{Colors.YELLOW} Github :- {GITHUB} {Colors.RED}⫷{Colors.RESET}
+{Colors.RED}                       Coded by{Colors.GREEN} {AUTHOR}{Colors.RED}{Colors.RESET}
+{Colors.RED}                      {Colors.YELLOW} Github :- {GITHUB} {Colors.RED}{Colors.RESET}
 """
     
     QUOTES = [
